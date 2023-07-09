@@ -5,22 +5,16 @@ Olá! Me chamo Lais
 - 📚 Sou estudande de front-end
 - 💻 Estou á procura de Estágio
 - 😉 Pronouns: ela/dela
-- Email: lais82013@gmail.com
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=laisregi&show_icons=true&theme=dark"
-    
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=laisregi&show_icons=true"
-    
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=laisregi&show_icons=true" />
-</picture>
 
 
+   <div>
+        <a href="https://github.com/laisregi">
+        <img height='180em' src="https://github-readme-stats.vercel.app/api?username=laisregi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=laisregi&layout=compact&langs_count=16&theme=dracula' />
+      </div>
 
+
+###
 
 
 <div>
@@ -34,7 +28,7 @@ Olá! Me chamo Lais
 ##
 
 <div>
-<a href = "lais82013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:lais82013@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" ></a>
   
 </div>
 
