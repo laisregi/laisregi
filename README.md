@@ -5,7 +5,7 @@ Olá! Me chamo Lais
 - 📚 Sou estudande de front-end
 - 💻 Estou á procura de Estágio
 - 😉 Pronouns: ela/dela
-
+- Email: lais82013@gmail.com
 
 <picture>
   <source
