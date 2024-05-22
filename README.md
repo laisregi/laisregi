@@ -4,7 +4,6 @@ Olá! Me chamo Lais
 
 - 📚 Sou estudande de front-end e back-end
 - 💻 Estou á procura de Estágio
-- 😉 Pronouns: ela/dela
 
 ###
    <div>
