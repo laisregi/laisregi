@@ -1,12 +1,10 @@
 Olá! Me chamo Lais
 
 
-
-- 📚 Sou estudande de front-end e back-end
-- 💻 Estou á procura de Estágio
+- 📚 Atualmente, estou aprofundando meus conhecimentos em frontend e backend
+- 💻 Estou a procura estágio para aplicar e expandir minhas habilidades
 
 ###
-
 
 
 
@@ -18,17 +16,19 @@ Olá! Me chamo Lais
 </div>
 
 
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-000?style=for-the-badge&logo=oracle)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
 ###
 
-
-<div>
-   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
-</div>
 
 ##
 
