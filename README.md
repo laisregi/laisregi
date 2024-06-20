@@ -1,8 +1,8 @@
-Olá! Me chamo Lais
+Olá! Me chamo Lais.
 
 
-- 📚 Atualmente, estou aprofundando meus conhecimentos em frontend e backend
-- 💻 Estou a procura estágio para aplicar e expandir minhas habilidades
+- 📚 Atualmente, estou aprofundando meus conhecimentos em frontend e backend.
+- 💻 Estou a procura estágio para aplicar e expandir minhas habilidades.
 
 ###
 
