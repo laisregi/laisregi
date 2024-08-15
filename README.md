@@ -2,7 +2,7 @@ Olá! Me chamo Lais.
 
 
 - 📚 Atualmente, estou aprofundando meus conhecimentos em frontend e backend.
-- 💻 Estou a procura estágio para aplicar e expandir minhas habilidades.
+- 💻 Estou a procura experiências em ambientes proficionais para aplicar e expandir minhas habilidades.
 
 ###
 
